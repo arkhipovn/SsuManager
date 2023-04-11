@@ -1,0 +1,15 @@
+module Menu
+
+ManagerMenu 1.0 ManagerMenu.qml
+ManagerMenuItem 1.0 ManagerMenuItem.qml
+MenuPage 1.0 MenuPage.qml
+InventoryTable 1.0 InventoryTable.qml
+
+ProgramSettingsPage 1.0 ProgramSettingsPage.qml
+
+DeviceTypeSelectionPane 1.0 connection/DeviceTypeSelectionPane.qml
+DeviceConnectionPane 1.0 connection/DeviceConnectionPane.qml
+
+
+ThresholdsAndMasksForm 1.0 mask/ThresholdsAndMasksForm.qml
+MaskComboBox 1.0 mask/MaskComboBox.qml

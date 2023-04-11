@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file alias="icon.ico">icons/icon.ico</file>
+    </qresource>
+    <qresource prefix="/images">
+        <file alias="input.png">images/input.png</file>
+        <file alias="rs232.png">images/rs232.png</file>
+        <file alias="rs232_horizontal.png">images/rs232_horizontal.png</file>
+        <file alias="vch003/MiddleCard.jpg">images/vch003/MiddleCard.jpg</file>
+        <file alias="vch003/MonitoringCard.jpg">images/vch003/MonitoringCard.jpg</file>
+        <file alias="vch003/PowerCard.jpg">images/vch003/PowerCard.jpg</file>
+        <file alias="vch003/SignalPanel_ru.png">images/vch003/SignalPanel_ru.png</file>
+        <file alias="vch003/SmallCard.jpg">images/vch003/SmallCard.jpg</file>
+        <file alias="vch003/GnssCard.jpg">images/vch003/GnssCard.jpg</file>
+        <file alias="Lan.jpg">images/Lan.jpg</file>
+        <file alias="polar.png">images/polar.png</file>
+    </qresource>
+    <qresource prefix="/fonts">
+        <file alias="DSEG7Classic-Italic.ttf">fonts/DSEG7Classic-Italic.ttf</file>
+    </qresource>
+    <qresource prefix="/ts">
+        <file alias="ssumanager_ru.qm">ts/ssumanager_ru.qm</file>
+    </qresource>
+</RCC>

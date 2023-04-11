@@ -1,0 +1,11 @@
+module Dialogs
+
+ApplicationWindow 1.0 ApplicationWindow.qml
+SettingsPopup 1.0 SettingsPopup.qml
+
+DownloadDataMenu 1.0 DownloadDataMenu.qml
+ConfirmationPopup 1.0 ConfirmationPopup.qml
+
+CheckPasswordPopup 1.0 CheckPasswordPopup.qml
+
+ModalDialog 1.0 ModalDialog.qml

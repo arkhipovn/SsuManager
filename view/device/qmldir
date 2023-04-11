@@ -1,0 +1,6 @@
+module Device
+
+Panel 1.0 Panel.qml
+Card 1.0 Card.qml
+CardPage 1.0 CardPage.qml
+DevicePage 1.0 DevicePage.qml
