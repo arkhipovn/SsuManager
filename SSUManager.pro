@@ -3,7 +3,7 @@ QT += quick sql network printsupport
 CONFIG += c++11
 
 #DEFINES += DEVICE_TESTING_FORMS        # тесты выходного сигнала
-DEFINES += ENABLE_APP_UPDATER
+#DEFINES += ENABLE_APP_UPDATER
 
 # Отключение дебага
 DEFINES += QT_NO_DEBUG_OUTPUT
